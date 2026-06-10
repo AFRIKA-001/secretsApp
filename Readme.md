@@ -1,7 +1,5 @@
  ## Secrets Project
 
-[![Build Status](https://shields.io)](https://shields.io)
-[![License: MIT](https://shields.io)](https://opensource.org)
 
 a secret project app inspired by whisper app.This project was for strengthening my backend journey especially for node/express ecosystem and Rest Apis using Axios.
 
@@ -48,5 +46,6 @@ Contributions make the open-source community an amazing place to learn, inspire,
 Distributed under the MIT License. See the `LICENSE` file for details.
 
 ## 📬 Contact
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- **Project Link**: [https://github.com](https://github.com)
+- **Email**: shikukugabriel06@gmail.com
+- **Portfolio link**:shikuku-gabriel-wafula.vercel.app
+-  
